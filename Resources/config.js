@@ -31,7 +31,7 @@ exports.config = {
     //動画のソースURL
     ,videoUrl: "https://smartj.mobi/redsmylife/video.json?teamId=fctokyo"
     //報告URL
-    ,reportUrl: "https://smartj.mobi/redsmylife/report.json?teamId=antlers"
+    ,reportUrl: "https://smartj.mobi/redsmylife/report.json?teamId=fctokyo"
     //利用規約URL
     ,rulesUrl: "https://smartj.mobi/redsmylife/rules.jsp?appName="
     //開発元メールアドレス
